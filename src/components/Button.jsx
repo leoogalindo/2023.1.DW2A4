@@ -1,13 +1,13 @@
-import React from 'react';
-import "./Button.css"
+import React from "react";
 
-const Button = ({children, onClick}) => {
-    return ( 
-        <button onClick = {onClick} className='button'>
-            {children}
-        </button>
-     );
-}
+import "./Style.css";
 
-<Button>Adicionar</Button>
+const Button = ({ children, onClick }) => {
+	return (
+		<button onClick={onClick} className="button">
+			{children}
+		</button>
+	);
+};
+
 export default Button;
