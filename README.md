@@ -10,10 +10,9 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 - etapa 2: Criação o componente Button - 100%
 - etapa 3: Adição de uma tarefa - 100%
 - etapa 4: Tarefa completa - 100%
-- etapa 5: Deletar uma tarefa - 100%...
-  Use o readme para documentar o andamento do seu projeto.
+- etapa 5: Deletar uma tarefa - 100%
+- etapa 6: Consumir API
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
-- alteração xyz;
-- alteração xpto;
+- Criei um style.css apenas, ao invés de ter que trabalhar com diversos arquivos css
 - ...
